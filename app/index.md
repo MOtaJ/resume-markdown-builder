@@ -1,101 +1,59 @@
-# Andrea Takamiya
+# Mark Ota
 
-1. 123 Manoa Drive Honolulu, HI 96822
-1. (808) 555-5555
-1. [https://github.com/andimiya](https://github.com/andimiya)
-1. [linkedin-url](linkedin-url)
+1. 1340 Ainapua Street, HI, 96819
+1. (808) 398-0851
+1. [https://github.com/MOtaJ](https://github.com/MOtaJ)
+1. [https://www.linkedin.com/in/mark-ota-b65817125/](https://www.linkedin.com/in/mark-ota-b65817125/)
 
 ## Objective
-I am a web developer...(what profession are you seeking?)
+A Proactive Computer-Programmer seeking to bring my knowledge and capabilities in Object Oriented Programming to aide in the management of  projects all the way from concept to completion with sensitivity to deadlines.
 
 ## Development Experience
 
-### Final Project Name 1
-#### [https://github.com/username/project](https://github.com/username/project)
-##### March 2017
-- Describe the project.
-- What did you contribute?
-- What were the outcomes (if any) of this project?
+### Akahele.io
+#### [https://github.com/aukai84/akahele](https://github.com/aukai84/akahele)
 
-### Hackathon Project Name 2
-#### [http://url.com](http://url.com)
-##### March 2017
-- Describe the project.
-- What did you contribute?
-- What were the outcomes (if any) of this project?
-
-## Professional Experience
-
-### Online Experience Manager
-#### Hawaiian Airlines Honolulu
-##### HI 2014 – Present  
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
+##### April 2017
+- Data visualisation map and comparison of crime incidents nationwide
+- Wire-framed project, developed the database to store datapoints of over 10,000 cities in the Nation, created routes from server to database, designed the Nation View Map along with functionality(scrolling, zooming, clicking, etc.), assisted with design of UI
+- Allow users to compare crime statistics between cities and states
 
 ## Education
-### DevLeague
-#### Explanation of what this is
-##### Jan - June 2017
+### Dev League , 2016 - 2017
+#### Dev League is a rigorous six-month long intensive Web/Computer Development boot-camp designed to get students prepared for the real world by first showing them the basics of web development, and then giving them a solid foundation on which students are prepared to handle modern, everyday libraries and frameworks.
+##### Dec 2016 - May 2017
 
-### Bachelor of Arts in Business Administration 
-#### Concentration in Marketing and International Business 
-#### Cumulative GPA: 3.74
-##### University of Oregon, 2005 – 2007
-##### University of Hawaii at Manoa , 2008 – 2009 
+### Honolulu Community College , 2011 - 2014
+#### Concentration in Audio/Acoustic Engineering
+#### Cumulative GPA: 3.3
+### University of Hawaii at Manoa , 2011 - 2014
+#### Concentration in Band and Elective Courses
+#### Cumulative GPA: 3.9
+
 
 ## Technical Skills
 
 ### Languages
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+- JavaScript, HTML5, CSS3, SQL, JQuery, Swift, Ruby
 
 ### Web Skills
 - Responsive/Mobile First Web Development
 - Test/Behavior Driven Development
-- Relational - and Non-Relational Database Modeling 
+- Relational - and Non-Relational Database Modeling
 - User Authentication
 - API Integration
 
 ### Frontend Proficiencies
-- HTML5
-- CSS3
-- JavaScript
-- ES6
-- React
-- Redux
-- Angular
-- D3
-- SASS
+- HTML5, CSS3, JavaScript, ES6, React, Redux, Angular, D3, React/D3, SASS, Ruby, Gulp
 
 ### Server-Side Proficiencies
-- NodeJS
-- Express
-- Jade
-- Sequelize/Mongoose ORM
-- GraphQl
+- NodeJS, Express, Sequelize/Mongoose ORM, GraphQl, Rails, Cloud9
 
 ### Database Proficiencies
-- PostgreSQL 
-- MongoDB
+- PostgreSQL, NoSQL
 
 ### Workflow/Testing Utilities
-- Git
-- Gulp
-- Mocha
-- Chai
-- SuperTest
+- Git, Gulp, Mocha, Chai, SuperTest
 
 ### Business Development
-- Sitecore CMS ( Sitecore Certified)
-- Sitecore OMS (Sitecore Certified)
-- Sitecore DMS (Sitecore Certified)
-- Adobe Sitecatalyst (Omniture)
-- Adobe Test & Target
-- Farelogix Merchandising System Microsoft Sharepoint CMS
-- Web layouts and wire-framing
-- Adobe Photoshop CS6
-- Adobe Illustrator CS6
-- Google AdWords
+- Web layouts and wire-framing, Database construction, Troubleshooting and Debugging
